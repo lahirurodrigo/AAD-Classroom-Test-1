@@ -7,7 +7,7 @@ import org.springframework.stereotype.Component;
 
 @Component
 @Primary
-@Qualifier("Long Hair")
+@Qualifier("Third")
 public class Mahesh {
 
     private BakeryItem bakeryItem;
